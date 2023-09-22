@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://windbnb-yrahmadani.vercel.app/">
+    <a href="https://todolist-today.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/8slhtgJA215DlCch2leX">
+    <a href="https://devchallenges.io/solutions/nRyKXTHBfH5zHBcOIAKx">
       Solution
     </a>
     <span> | </span>
