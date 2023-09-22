@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-faamily: "Quicksand";
+  src: url(assets/quicksand/Quicksand-Bold.ttf);
+  font-style: normal;
+  font-weight: 800
+}
+
+@font-face {
+  font-faamily: "Quicksand";
+  src: url(assets/quicksand/Quicksand-Medium.ttf);
+  font-style: normal;
+  font-weight: 600
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: url(assets/quicksand/Quicksand-Regular.ttf);
+  font-style: normal;
+  font-weight: 500
+}
+
+body {
+  min-height: 100vh;
+  background-color: #4f535b;
+}
+
+.shadow-input {
+  box-shadow: -1px -1px 1px rgba(255, 255, 255, 0.2),
+              5px 5px 5px rgba(0, 0, 0, 0.15),
+              15px 15px 15px rgba(0, 0, 0, 0.13)
+}
