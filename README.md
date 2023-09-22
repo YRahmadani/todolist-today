@@ -38,14 +38,13 @@
 
 ![screenshot](/src/assets/overview-todo.png)
 
-Challenge: Create a small version of Airbnb - Windbnb with given data. Use Front-end libraries like React or Vue. Don’t look at the existing solution. Fulfill user stories below:
+Challenge: Create a todo app following given designs. Use Front-end libraries like React or Vue. Don’t look at the existing solution. Fulfill user stories below:
 
-User story: I can see a list of properties
-User story: I can see the property card with a name, rating, apartment type, and super host
-User story: I can open the filter drawer
-User story: I can filter properties by location and number of guests
-User story: I can see the number of filtered items
-User story: I can see pages following given designs
+User story: I can add a new task
+User story: I can complete a task
+User story: I can toggle between All, Active and Completed
+User story: I can remove one or all tasks under the Completed tab
+User story (optional): Store the data in local storage that when I refresh the page I can still see my progress
 
 ### Built With
 
